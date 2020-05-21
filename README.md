@@ -1,4 +1,4 @@
 # Introduction
-Hello all
-my name Andre Kusuma Firmansah
-my hobi is makeing Design Logo and software engginering
+
+hello my name is Andre Kusuma Firmansah
+## Thanks
